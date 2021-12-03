@@ -7,7 +7,7 @@
 
 * [x] Créer son premier repo Github
 * [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-* [ ] Découverte du Markdown : 
+* [x] Découverte du Markdown : 
   * [ ] Comprendre l'intérêt du Markdown
   * [ ] Découvrir les balises de bases : 
     * [ ] Titres
@@ -29,4 +29,4 @@
 
 ### Optionnel pour apprendre le terminal Linux / Mac : 
 
-* [ ] Faire le [wargame bandit](https://overthewire.org/wargames/bandit/) jusqu'au niveau 5 (anglais)
+* [x] Faire le [wargame bandit](https://overthewire.org/wargames/bandit/) jusqu'au niveau 5 (anglais)
