@@ -10,8 +10,8 @@
 * [x] Découverte du Markdown : 
   * [x] Comprendre l'intérêt du Markdown
   * [x] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
+    * [x] Titres
+    * [x] Images
     * [ ] Listes
     * [ ] Formatage de texte (italique, souligné, gras)
     * [ ] Code
