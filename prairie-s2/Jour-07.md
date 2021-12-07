@@ -15,7 +15,7 @@
   * [ ] Savoir architecturer une page HTML basique
   * [ ] Comprendre le fonctionnement des attributs en HTML
   * [x] Savoir commenter dans une page HTML
-  * [ ] Découvrir le principe de parents/enfants
+  * [x] Découvrir le principe de parents/enfants
   * [ ] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
 * [x] Créer sa première page HTML (voir brief CV)
