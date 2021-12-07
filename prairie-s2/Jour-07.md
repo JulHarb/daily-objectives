@@ -14,7 +14,7 @@
   * [ ] Découvrir les principaux tags HTML et comprendre leur utilité
   * [ ] Savoir architecturer une page HTML basique
   * [ ] Comprendre le fonctionnement des attributs en HTML
-  * [ ] Savoir commenter dans une page HTML
+  * [x] Savoir commenter dans une page HTML
   * [ ] Découvrir le principe de parents/enfants
   * [ ] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
