@@ -17,6 +17,6 @@
   * [x] Savoir commenter dans une page HTML
   * [x] Découvrir le principe de parents/enfants
   * [ ] Découvrir le HTML5 sémantique
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
+* [] Comprendre la différence entre les liens relatifs et liens absolus
 * [x] Créer sa première page HTML (voir brief CV)
 * [x] Découvrir Emmet (utilité et fonctionnement)
