@@ -83,3 +83,8 @@ Pour le champ "Nationalité", proposer évidemment plusieurs propositions avec c
 Revue de code sur Github
 Test du formulaire
 
+git branch newimage
+git checkout newimage
+=
+git switch
+git merge (le nom de la branche à lier)
