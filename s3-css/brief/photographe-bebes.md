@@ -50,7 +50,7 @@ Travail en individuel.
 
 * [Marjorie Lasselin](https://marjorie-lasselin.fr/)
 * [Karine Majet](https://karinemajet.com/)
-* [Apprendre CSS (angais)](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+* [Apprendre CSS (anglais)](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 * [HTML5 Boilerplate](https://html5boilerplate.com/)
 * [W3C Validator](https://validator.w3.org/)
 
