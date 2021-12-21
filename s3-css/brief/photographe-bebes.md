@@ -48,11 +48,12 @@ Travail en individuel.
 
 ## Ressources
 
-* [Marjorie Lasselin](https://marjorie-lasselin.fr/)
-* [Karine Majet](https://karinemajet.com/)
-* [Apprendre CSS (anglais)](https://learn.shayhowe.com/html-css/getting-to-know-css/)
-* [HTML5 Boilerplate](https://html5boilerplate.com/)
-* [W3C Validator](https://validator.w3.org/)
+https://marjorie-lasselin.fr/
+https://karinemajet.com/
+
+
+https://learn.shayhowe.com/html-css/getting-to-know-css/
+https://validator.w3.org/
 
 
 
